@@ -1,0 +1,21 @@
+Circuit: * C:\Users\micha\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\Segundo semestre\Analisis de sistemas electricos en sistemas ingenieriles\Reto\LT\Original.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Apr 28 20:45:01 2020
+Total elapsed time: 0.113 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2091
+traniter = 2088
+tranpoints = 1045
+accept = 1045
+rejected = 0
+matrix size = 5
+fillins = 0
+solver = Normal
+Matrix Compiler1:       9 opcodes  2.0/[0.0]/0.1
+Matrix Compiler2:      27 opcodes  0.1/[0.1]/0.1
+
